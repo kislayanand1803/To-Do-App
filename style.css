@@ -105,3 +105,13 @@
     ul li span:hover{
         background: #edeef0;
     }
+    .footer{
+        position: fixed;
+        left: 0px;
+        bottom: 0px;
+        width: 100%;
+        background-color: transparent;
+        color: white;
+        text-align: center;
+        font-family: cursive;
+    }
